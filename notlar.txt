@@ -1,0 +1,6 @@
+ÖNEMLİ NOTLAR
+
+    Parameterleri string olarak alıyoruz yalnız sql sorgusu yaparken id değelerine göre bir sorgulama yapmamız lazım , kategoriyi isim olarak alabiliriz , ancak 
+    diğer bilgileri integer olarak almak daha mantıklı olacak.
+
+    Sql multi filtre fonksiyonu tekrar gözden geçirilip dizayn edilmeli.
